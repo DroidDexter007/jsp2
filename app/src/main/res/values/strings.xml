@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">jsp2</string>
+    <string name="menu_item_text">Refresh</string>
+</resources>
